@@ -1,2 +1,2 @@
-# template-agile-docker-architecture-java-springboot
-template backend for agile project with java springboot langage and docker
+# lab-agile-planning
+Ce dépôt contient le laboratoire pour la planification agile
